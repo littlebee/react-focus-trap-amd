@@ -1,0 +1,32 @@
+{
+  "name": "react-focus-trap-amd",
+  "version": "0.1.0",
+  "description": "A webpack packaging of react-focus-trap that is compatible with requireJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/littlebee/react-focus-trap-amd.git"
+  },
+  "keywords": [
+    "react",
+    "focus",
+    "focus-trap",
+    "requirejs",
+    "amd"
+  ],
+  "author": "Bee Wilkerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/littlebee/react-focus-trap-amd/issues"
+  },
+  "homepage": "https://github.com/littlebee/react-focus-trap-amd",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}
